@@ -1,1 +1,1 @@
-<?php include_once("probability-distributions\index.html"); ?>
+<?php include_once("index.html"); ?>
